@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+}
+.a-form{
+    background-color: rgba(255.228,181.1);
+}
+.an-input{
+    border: 2px solid black;
+    
+}
+button{
+    background-color: rgba(255,69,0,0.9);
+}
